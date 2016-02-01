@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetflixProj", "NetflixProj\NetflixProj.csproj", "{DCD73357-93FB-40C7-AA72-8B0597A507B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetflixProjTests", "NetflixProjTests\NetflixProjTests.csproj", "{87351614-115E-4A66-9A6F-A6732301786F}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "NetFlixuml", "NetFlixuml\NetFlixuml.modelproj", "{391206DE-EA0F-446E-AEF7-0FD4AD28E31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD73357-93FB-40C7-AA72-8B0597A507B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD73357-93FB-40C7-AA72-8B0597A507B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD73357-93FB-40C7-AA72-8B0597A507B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD73357-93FB-40C7-AA72-8B0597A507B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87351614-115E-4A66-9A6F-A6732301786F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87351614-115E-4A66-9A6F-A6732301786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87351614-115E-4A66-9A6F-A6732301786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87351614-115E-4A66-9A6F-A6732301786F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391206DE-EA0F-446E-AEF7-0FD4AD28E31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391206DE-EA0F-446E-AEF7-0FD4AD28E31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391206DE-EA0F-446E-AEF7-0FD4AD28E31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391206DE-EA0F-446E-AEF7-0FD4AD28E31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
